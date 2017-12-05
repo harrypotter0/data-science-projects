@@ -14,3 +14,5 @@ print(iris.target_names)
 # check the types of the features and response
 print(type(iris.data))
 print(type(iris.target))
+# check the shape of the features (first dimension = number of observations, second dimensions = number of features)
+print(iris.data.shape)

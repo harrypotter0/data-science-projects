@@ -10,3 +10,6 @@ print(L2)
 print(type(L2[0]))
 L3= [True,"2",3.0,4]
 print([type(i) for i in L3])
+
+# integer array:
+np.array([1, 4, 2, 5, 3])
