@@ -246,6 +246,10 @@ A curated list of data science blogs
 * ℚuantitative √ourney http://outlace.com/ [(RSS)](http://outlace.com/feeds/all.atom.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)](http://blog.otoro.net/feed.xml)
 
+# For Beginners
+* KDNuggets https://www.kdnuggets.com/
+* Data Science & Analysis Articles & Open Courses | DataCamp https://www.datacamp.com/community
+* No Free Hunch http://blog.kaggle.com/
 
 # RSS
 You can import an [opml file](./data-science.opml) to your favorite RSS reader.  
